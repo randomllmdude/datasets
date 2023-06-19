@@ -1,0 +1,41 @@
+Meta Reports First Quarter 2023 Results
+MENLO PARK, Calif., April 26, 2023 /PRNewswire/ -- Meta Platforms, Inc. (Nasdaq: META) today reported nancial
+results for the quarter ended March 31, 2023.
+"We had a good quarter and our community continues to grow," said Mark Zuckerberg, Meta founder and CEO.
+"Our AI work is driving good results across our apps and business. We're also becoming more ecient so we can
+build better products faster and put ourselves in a stronger position to deliver our long term vision."
+First Quarter 2023  Financial Highlights
+Three Months Ended March 31,
+In millions, except percentages and per share amounts 2023 2022 % Change
+Revenue $                   28,645 $                   27,908 3 %
+Costs and expenses 21,418 19,384 10 %
+Income from operations $                     7,227 $                     8,524 (15) %
+Operating margin 25 % 31 %
+Provision for income taxes $                     1,598 $                     1,443 11 %
+Eective tax rate 22 % 16 %
+Net income $                     5,709 $                     7,465 (24) %
+Diluted earnings per share (EPS) $                       2.20 $                       2.72 (19) %
+First Quarter 2023  Operational and Other Financial Highlights
+Family daily active people (DAP) – DAP was 3.02 billion on average for March 2023, an increase of 5% yearover-year.
+Family monthly active people (MAP) – MAP was 3.81 billion as of March 31, 2023, an increase of 5% year-overyear.
+Facebook daily active users (DAUs) – DAUs were 2.04 billion on average for March 2023, an increase of 4%
+year-over-year.
+Facebook monthly active users (MAUs) – MAUs were 2.99 billion as of March 31, 2023, an increase of 2% yearover-year.
+Ad impressions and price per ad – In the rst quarter of 2023, ad impressions delivered across our Family of
+1
+Apps increased by 26% year-over-year and the average price per ad decreased by 17% year-over-year.
+Revenue – Revenue was $28.65 billion, an increase of 3% year-over-year, and an increase of 6% year-over-year
+on a constant currency basis.
+Costs and expenses – Total costs and expenses were $21.42 billion, an increase of 10% year-over-year. This
+includes charges related to our restructuring eorts of $1.14 billion in the rst quarter of 2023.
+Capital expenditures – Capital expenditures, including principal payments on nance leases, were $7.09
+billion for the rst quarter of 2023.
+Share repurchases – We repurchased $9.22 billion of our Class A common stock in the rst quarter of 2023.
+As of March 31, 2023, we had $41.73 billion available and authorized for repurchases.
+Cash, cash equivalents, and marketable securities – Cash, cash equivalents, and marketable securities were
+$37.44 billion as of March 31, 2023.
+Long-term debt – Long-term debt was $9.92 billion as of March 31, 2023.
+Headcount – Headcount was 77,114 as of March 31, 2023, a decrease of 1% year-over-year. Substantially all
+employees impacted by the layo announced in November 2022 are no longer reected in our reported
+headcount as of March 31, 2023. Further, the employees that would be impacted by the 2023 layos are
+included in our reported headcount as of March 31, 2023.
